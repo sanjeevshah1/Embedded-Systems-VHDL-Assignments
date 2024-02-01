@@ -57,11 +57,11 @@ BEGIN
     X <= '0';
     wait for 10 ns;
     X <= '1'; 
-    wait for 20 ns;
-    X <= '0'; 
-    wait for 20 ns;
+    wait for 10 ns;
     X <= '1'; 
-    wait for 20 ns;
+    wait for 10 ns;
+    X <= '0'; 
+    wait for 10 ns;
     X <= '0'; 
     -- insert stimulus here 
     
