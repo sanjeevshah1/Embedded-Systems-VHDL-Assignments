@@ -54,7 +54,7 @@ case(currentState) is
    -- "101"
         nextState <= Q3;
     else
-        nextState <= Q2;
+        nextState <= Q0;
     end if;  
     
     when Q3 =>
