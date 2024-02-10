@@ -45,10 +45,14 @@ Use commands like ls and cd to navigate to the directory containing the VHDL pro
 Now, gtkwave will open, allowing you to visualize the results (waveform) of your VHDL program.
 
 ## Step 7: Inside gtkwave select the testbench.
+<img src="./screenshots/testbench.png" alt="Select testbench" />
 
 ## Step 8: Select the listed signals. (By double clicking at each of them)
+<img src="./screenshots/signals.png" alt="Select Signals" />
 
 ## Step 9: Initialize the visualiztion of waveform by clicking at the tick mark.
+<img src="./screenshots/tick.png" alt="Click tick" />
+
 You can zoom in & zoom out the waveform by clicking '+' & '-' respectively.
 
 ## (Optional)
