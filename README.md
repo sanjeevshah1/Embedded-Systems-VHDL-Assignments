@@ -5,12 +5,12 @@ A repo of the assignments of Embedded Systems.
 
 To run VHDL programs in Ubuntu, follow these steps & type the commands in terminal.
 
-## Step 1: Update Package Lists
+## Step 1: Update Package Lists. (Optional but recommended)
   ```bash
   sudo apt update
   ```
 
-(Optional but recommended)
+
 
 ## Step 2: Install ghdl.
   ```bash
