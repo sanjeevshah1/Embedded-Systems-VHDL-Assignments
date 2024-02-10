@@ -38,22 +38,28 @@ Use commands like ls and cd to navigate to the directory containing the VHDL pro
   ```bash
  make
   ```
-## Step 6: Install ghdl.
-  ```bash
- sudo apt install ghdl -y
-  ```
-## Step 7: Visualizing the program.
+## Step 6: Visualizing the program.
   ```bash
  gtkwave result.vcd
   ```
 Now, gtkwave will open, allowing you to visualize the results (waveform) of your VHDL program.
 
-## Step 8: Inside gtkwave select the testbench.
+## Step 7: Inside gtkwave select the testbench.
 
-## Step 9: Select the listed signals. (By double clicking at each of them)
+## Step 8: Select the listed signals. (By double clicking at each of them)
 
-## Step 10: Initialize the visualiztion of waveform by clicking at the tick mark.
+## Step 9: Initialize the visualiztion of waveform by clicking at the tick mark.
 You can zoom in & zoom out the waveform by clicking '+' & '-' respectively.
+
+## (Optional)
+If you want to delete the result.vcd file you can use the following commands.
+ ```bash
+make clean
+  ```
+or
+ ```bash
+rm -rf result.vcd
+  ```
 
 
 
