@@ -1,7 +1,10 @@
-# Embedded-Systems-VHDL-Assignments
-A repo of the assignments of Embedded Systems.
+<div align="center">
+  <h1>Embedded-Systems-VHDL-Assignments</h1>
+</div>
 
-# Running VHDL Programs in Ubuntu
+
+
+<h2>Running VHDL Programs in Ubuntu</h2>
 
 To run VHDL programs in Ubuntu, follow these steps & type the commands in terminal.
 
@@ -28,7 +31,7 @@ You can check if ghdl and gtkwave have been installed or not by typing the follo
 
   If their versions show up they have been installed; otherwise there may have been some problems during installation.
 
-##Step 4: Navigate to Program Directory
+## Step 4: Navigate to Program Directory
 Use commands like ls and cd to navigate to the directory containing the VHDL program.
 
 ## Step 5: Compile and Generate Results
