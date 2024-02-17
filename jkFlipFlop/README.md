@@ -3,4 +3,4 @@
 <p>Write a VHDL code for a JK flip-flop using process.</p>
 <img src="./JK_flipflop.png" alt="JK flip flop using process." />
 <h2>State Diagram</h2>
-<img src="./../stateDiagram/jkState.png" alt="State Diagram for GCD" />
+<img src="./../stateDiagram/jkState.png" alt="State Diagram for JK Flip Flop" />
